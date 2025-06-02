@@ -1,5 +1,0 @@
-mkdir media
-echo "# Placeholder" > my-folder-name/README.md
-git add .
-git commit -m "Add folder with placeholder file"
-git push origin main
