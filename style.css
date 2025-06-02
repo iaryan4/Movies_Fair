@@ -3,7 +3,7 @@ html{
 }
 body {
     background-color: rgb(23, 22, 22);
-    background-image: url('coolbackgrounds-fractalize-spectrum.png');
+    background-image: url('media/coolbackgrounds-fractalize-spectrum.png');
     background-attachment: fixed ;
     background-size: cover;
 }
