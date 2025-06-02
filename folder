@@ -1,0 +1,4 @@
+touch media/.gitkeep
+git add media/.gitkeep
+git commit -m "Add media folder with .gitkeep"
+git push origin main
